@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_ex/mlruns/0/cb39c0c93beb4c66a8ab2569d98caabc/artifacts
+end_time: 1745843973179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb39c0c93beb4c66a8ab2569d98caabc
+run_name: abrasive-lark-942
+run_uuid: cb39c0c93beb4c66a8ab2569d98caabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745843973065
+status: 3
+tags: []
+user_id: joysh

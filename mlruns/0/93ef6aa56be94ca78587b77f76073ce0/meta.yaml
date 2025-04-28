@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_ex/mlruns/0/93ef6aa56be94ca78587b77f76073ce0/artifacts
+end_time: 1745844104265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93ef6aa56be94ca78587b77f76073ce0
+run_name: sincere-calf-438
+run_uuid: 93ef6aa56be94ca78587b77f76073ce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745844098087
+status: 3
+tags: []
+user_id: joysh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_ex/mlruns/0/cff613c094ae40a1bc254b4a2b37e05e/artifacts
+end_time: 1745843914018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cff613c094ae40a1bc254b4a2b37e05e
+run_name: angry-quail-779
+run_uuid: cff613c094ae40a1bc254b4a2b37e05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745843913842
+status: 3
+tags: []
+user_id: joysh

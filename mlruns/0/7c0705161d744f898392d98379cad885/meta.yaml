@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_ex/mlruns/0/7c0705161d744f898392d98379cad885/artifacts
+end_time: 1745843931272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c0705161d744f898392d98379cad885
+run_name: melodic-gnat-262
+run_uuid: 7c0705161d744f898392d98379cad885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745843931165
+status: 3
+tags: []
+user_id: joysh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_ex/mlruns/0/60c4b17de10d4e9eaca10cf7896a0dbb/artifacts
+end_time: 1745844056764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60c4b17de10d4e9eaca10cf7896a0dbb
+run_name: popular-hawk-967
+run_uuid: 60c4b17de10d4e9eaca10cf7896a0dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745844056653
+status: 3
+tags: []
+user_id: joysh
